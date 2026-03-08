@@ -558,5 +558,6 @@ export default function App() {
         ))}
       </div>
     </div>
+<script type= "module" scr="/index.tsx"></script>
   );
 }
